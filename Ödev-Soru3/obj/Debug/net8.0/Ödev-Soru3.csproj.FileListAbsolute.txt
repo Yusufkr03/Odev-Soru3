@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\Ödev-Soru3\bin\Debug\net8.0\Ödev-Soru3.exe
+C:\Users\yusuf\source\repos\Ödev-Soru3\bin\Debug\net8.0\Ödev-Soru3.deps.json
+C:\Users\yusuf\source\repos\Ödev-Soru3\bin\Debug\net8.0\Ödev-Soru3.runtimeconfig.json
+C:\Users\yusuf\source\repos\Ödev-Soru3\bin\Debug\net8.0\Ödev-Soru3.dll
+C:\Users\yusuf\source\repos\Ödev-Soru3\bin\Debug\net8.0\Ödev-Soru3.pdb
+C:\Users\yusuf\source\repos\Ödev-Soru3\obj\Debug\net8.0\Ödev-Soru3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\Ödev-Soru3\obj\Debug\net8.0\Ödev-Soru3.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\Ödev-Soru3\obj\Debug\net8.0\Ödev-Soru3.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\Ödev-Soru3\obj\Debug\net8.0\Ödev-Soru3.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Ödev-Soru3\obj\Debug\net8.0\Ödev-Soru3.dll
+C:\Users\yusuf\source\repos\Ödev-Soru3\obj\Debug\net8.0\refint\Ödev-Soru3.dll
+C:\Users\yusuf\source\repos\Ödev-Soru3\obj\Debug\net8.0\Ödev-Soru3.pdb
+C:\Users\yusuf\source\repos\Ödev-Soru3\obj\Debug\net8.0\Ödev-Soru3.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\Ödev-Soru3\obj\Debug\net8.0\ref\Ödev-Soru3.dll
